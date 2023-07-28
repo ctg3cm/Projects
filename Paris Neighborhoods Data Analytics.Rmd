@@ -1,3 +1,17 @@
+Paris Neighborhoods Data Analytics
+
+This project represents a collaborative endeavor where each team member significantly contributed to its successful completion. The contributions in terms of time, effort, and intellectual input were distributed evenly among the team members.
+
+The team consisted of the following individuals:
+
+Tiange (Tea) Chang
+Fu Chen
+Liuyi Chen
+Ruilin Song
+Qiao Xu
+Wanxin Zhang
+
+Each member brought their unique strengths and skills to the project, and it's their collective efforts that have been instrumental in bringing this project to fruition.
 
 ***Warning: Due to different modelling needs, different parts of the database are handled differently, so please check carefully!
 
