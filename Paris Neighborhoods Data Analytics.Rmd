@@ -4,7 +4,7 @@ This project represents a collaborative endeavor where each team member signific
 
 The team consisted of the following individuals:
 
-Tiange (Tea) Chang
+Tiange(Tea) Chang
 Fu Chen
 Liuyi Chen
 Ruilin Song
